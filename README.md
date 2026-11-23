@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Muhammad%20Aidil&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=IT%20Student%20%E2%80%A2%20Homelab%20%E2%80%A2%20Web%20Systems%20%E2%80%A2%20AI-Assisted%20Operations&descAlignY=58&descSize=16" alt="Muhammad Aidil" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Muhammad%20Aidil&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Cybersecurity%20Student%20%E2%80%A2%20Homelab%20%E2%80%A2%20Secure%20Web%20Systems%20%E2%80%A2%20AI-Assisted%20Operations&descAlignY=58&descSize=16" alt="Muhammad Aidil" width="100%" />
 
 <p>
-  <img src="https://img.shields.io/badge/UniKL-IT%20Student-2c5364?style=flat-square&logo=bookstack&logoColor=white" alt="UniKL IT Student" />
+  <img src="https://img.shields.io/badge/UniKL-Cybersecurity%20Student-2c5364?style=flat-square&logo=bookstack&logoColor=white" alt="UniKL Cybersecurity Student" />
   <img src="https://img.shields.io/badge/Homelab-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Homelab on Proxmox" />
-  <img src="https://img.shields.io/badge/Focus-Infrastructure%20%26%20Security-1f6feb?style=flat-square&logo=letsencrypt&logoColor=white" alt="Infrastructure and Security" />
+  <img src="https://img.shields.io/badge/Focus-Security%20%26%20Infrastructure-1f6feb?style=flat-square&logo=letsencrypt&logoColor=white" alt="Security and Infrastructure" />
 </p>
 
 </div>
 
 ### About Me
 
-I am an IT student at UniKL who learns by building real systems and keeping them running.
-I operate my own homelab, deploy web applications to production, and use AI agents to help
-monitor and maintain my servers under clear, human-approved limits.
+I am a cybersecurity student at UniKL who learns by building real systems and keeping them secure.
+I operate my own homelab, harden and deploy web applications to production, and use AI agents to
+monitor, patch and protect my servers under clear, human-approved limits.
 
 ### Highlights
 
