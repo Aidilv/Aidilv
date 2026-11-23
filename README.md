@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/UniKL-Cybersecurity%20Student-2c5364?style=flat-square&logo=bookstack&logoColor=white" alt="UniKL Cybersecurity Student" />
   <img src="https://img.shields.io/badge/Homelab-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Homelab on Proxmox" />
   <img src="https://img.shields.io/badge/Focus-Security%20%26%20Infrastructure-1f6feb?style=flat-square&logo=letsencrypt&logoColor=white" alt="Security and Infrastructure" />
+  <a href="https://www.linkedin.com/in/aidilv"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 </div>
@@ -20,7 +21,7 @@ monitor, patch and protect my servers under clear, human-approved limits.
 
 | | Project | Summary |
 |:-:|---|---|
-| 🏠 | **Self-Hosted Homelab** | Proxmox host running eight virtual machines and containers around the clock: NAS with photo backup, network-wide DNS filtering, monitoring dashboard, private VPN access and scheduled backups. |
+| 🏠 | **Self-Hosted Homelab** | Proxmox host running virtual machines and containers around the clock: NAS with photo backup, network-wide DNS filtering, monitoring dashboard, private VPN access and scheduled backups. |
 | 🤖 | **AI-Assisted Server Operations** | AI agents that monitor services, review new CVEs, apply security patches and report back. Risky actions such as production changes, deletions and credential changes require my approval, and a locking system prevents two agents from changing the same server at once. |
 | 🛡️ | **Monitoring and Security Patrol** | A watchdog that checks every service every five minutes, reviews what the network exposes to the internet, and sends an alert when something fails. |
 | 🌐 | **Course Management System** | A Laravel application in production for managing training courses: applications, approvals, attendance, assessment and PDF certificates with QR verification. Secured with two-factor authentication, a Cloudflare WAF, Turnstile and a tunnel that keeps the origin server private. |
